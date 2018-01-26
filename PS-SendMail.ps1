@@ -1,6 +1,6 @@
 ﻿#####################################################
 
-$SendAddress="bright7hat@gmail.com"
+$SendAddress="YOUR_EMAIL_ADDRESS"
 $To=Read-Host -Prompt "To"
 $Subject=Read-Host -Prompt "Subject"
 $Body=Read-Host -Prompt "Input Body"
